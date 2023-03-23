@@ -1,0 +1,13 @@
+SWITCH (5) {
+    CASE 1: PRINT(1);
+    CASE 5:
+        SWITCH (6){
+            CASE 5: PRINT(55);
+            CASE 6: PRINT(66); 
+            CASE 8: PRINT(88); 
+            CASE 9: PRINT(88); 
+            DEFAULT: PRINT(0);
+        }
+    CASE 4: PRINT(4); BREAK; 
+    DEFAULT: PRINT(10); BREAK;
+}

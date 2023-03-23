@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/dmitrij/education/tranlator/ivan/10/cmake",
+  "command": "/usr/bin/c++ -DANTLR4CPP_STATIC -I/home/dmitrij/education/tranlator/ivan/10/cmake/antlr4cpp_generated_src/MyGrammar -isystem /home/dmitrij/education/tranlator/ivan/10/cmake/antlr4_runtime/src/antlr4_runtime/runtime/Cpp/runtime/src -std=gnu++17 -o CMakeFiles/demo.dir/main.cpp.o -c /home/dmitrij/education/tranlator/ivan/10/main.cpp",
+  "file": "/home/dmitrij/education/tranlator/ivan/10/main.cpp"
+},
+{
+  "directory": "/home/dmitrij/education/tranlator/ivan/10/cmake",
+  "command": "/usr/bin/c++ -DANTLR4CPP_STATIC -I/home/dmitrij/education/tranlator/ivan/10/cmake/antlr4cpp_generated_src/MyGrammar -isystem /home/dmitrij/education/tranlator/ivan/10/cmake/antlr4_runtime/src/antlr4_runtime/runtime/Cpp/runtime/src -std=gnu++17 -o CMakeFiles/demo.dir/antlr4cpp_generated_src/MyGrammar/MyGrammarLexer.cpp.o -c /home/dmitrij/education/tranlator/ivan/10/cmake/antlr4cpp_generated_src/MyGrammar/MyGrammarLexer.cpp",
+  "file": "/home/dmitrij/education/tranlator/ivan/10/cmake/antlr4cpp_generated_src/MyGrammar/MyGrammarLexer.cpp"
+},
+{
+  "directory": "/home/dmitrij/education/tranlator/ivan/10/cmake",
+  "command": "/usr/bin/c++ -DANTLR4CPP_STATIC -I/home/dmitrij/education/tranlator/ivan/10/cmake/antlr4cpp_generated_src/MyGrammar -isystem /home/dmitrij/education/tranlator/ivan/10/cmake/antlr4_runtime/src/antlr4_runtime/runtime/Cpp/runtime/src -std=gnu++17 -o CMakeFiles/demo.dir/antlr4cpp_generated_src/MyGrammar/MyGrammarParser.cpp.o -c /home/dmitrij/education/tranlator/ivan/10/cmake/antlr4cpp_generated_src/MyGrammar/MyGrammarParser.cpp",
+  "file": "/home/dmitrij/education/tranlator/ivan/10/cmake/antlr4cpp_generated_src/MyGrammar/MyGrammarParser.cpp"
+},
+{
+  "directory": "/home/dmitrij/education/tranlator/ivan/10/cmake",
+  "command": "/usr/bin/c++ -DANTLR4CPP_STATIC -I/home/dmitrij/education/tranlator/ivan/10/cmake/antlr4cpp_generated_src/MyGrammar -isystem /home/dmitrij/education/tranlator/ivan/10/cmake/antlr4_runtime/src/antlr4_runtime/runtime/Cpp/runtime/src -std=gnu++17 -o CMakeFiles/demo.dir/antlr4cpp_generated_src/MyGrammar/MyGrammarBaseListener.cpp.o -c /home/dmitrij/education/tranlator/ivan/10/cmake/antlr4cpp_generated_src/MyGrammar/MyGrammarBaseListener.cpp",
+  "file": "/home/dmitrij/education/tranlator/ivan/10/cmake/antlr4cpp_generated_src/MyGrammar/MyGrammarBaseListener.cpp"
+},
+{
+  "directory": "/home/dmitrij/education/tranlator/ivan/10/cmake",
+  "command": "/usr/bin/c++ -DANTLR4CPP_STATIC -I/home/dmitrij/education/tranlator/ivan/10/cmake/antlr4cpp_generated_src/MyGrammar -isystem /home/dmitrij/education/tranlator/ivan/10/cmake/antlr4_runtime/src/antlr4_runtime/runtime/Cpp/runtime/src -std=gnu++17 -o CMakeFiles/demo.dir/antlr4cpp_generated_src/MyGrammar/MyGrammarListener.cpp.o -c /home/dmitrij/education/tranlator/ivan/10/cmake/antlr4cpp_generated_src/MyGrammar/MyGrammarListener.cpp",
+  "file": "/home/dmitrij/education/tranlator/ivan/10/cmake/antlr4cpp_generated_src/MyGrammar/MyGrammarListener.cpp"
+},
+{
+  "directory": "/home/dmitrij/education/tranlator/ivan/10/cmake",
+  "command": "/usr/bin/c++ -DANTLR4CPP_STATIC -I/home/dmitrij/education/tranlator/ivan/10/cmake/antlr4cpp_generated_src/MyGrammar -isystem /home/dmitrij/education/tranlator/ivan/10/cmake/antlr4_runtime/src/antlr4_runtime/runtime/Cpp/runtime/src -std=gnu++17 -o CMakeFiles/demo.dir/antlr4cpp_generated_src/MyGrammar/MyGrammarBaseVisitor.cpp.o -c /home/dmitrij/education/tranlator/ivan/10/cmake/antlr4cpp_generated_src/MyGrammar/MyGrammarBaseVisitor.cpp",
+  "file": "/home/dmitrij/education/tranlator/ivan/10/cmake/antlr4cpp_generated_src/MyGrammar/MyGrammarBaseVisitor.cpp"
+},
+{
+  "directory": "/home/dmitrij/education/tranlator/ivan/10/cmake",
+  "command": "/usr/bin/c++ -DANTLR4CPP_STATIC -I/home/dmitrij/education/tranlator/ivan/10/cmake/antlr4cpp_generated_src/MyGrammar -isystem /home/dmitrij/education/tranlator/ivan/10/cmake/antlr4_runtime/src/antlr4_runtime/runtime/Cpp/runtime/src -std=gnu++17 -o CMakeFiles/demo.dir/antlr4cpp_generated_src/MyGrammar/MyGrammarVisitor.cpp.o -c /home/dmitrij/education/tranlator/ivan/10/cmake/antlr4cpp_generated_src/MyGrammar/MyGrammarVisitor.cpp",
+  "file": "/home/dmitrij/education/tranlator/ivan/10/cmake/antlr4cpp_generated_src/MyGrammar/MyGrammarVisitor.cpp"
+}
+]
